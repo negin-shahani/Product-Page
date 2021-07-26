@@ -1,0 +1,32 @@
+.header{
+  background-color: #2471A3;
+  height: 60px;
+  width: 100%;
+  text-align: center; 
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.header_logo{
+  height: 100px;
+  margin-top: -20px;
+}
+
+.mainContainer{
+  padding: 4% 12%;
+  margin-top: 40px;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.productPreview{
+  width: 50%;
+  position: relative;
+}
+.productPreview img {
+  width: 100%;
+  
+}
+
